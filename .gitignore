@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+target/
+*.log
+.env
+.env.local
+.env.*.local
+next-env.d.ts
+*.tsbuildinfo
+# Local Alpenglow node: binaries, plugin and ledger (scripts/alpenglow-local-node.sh)
+.alpenglow-node/
+.DS_Store

@@ -1,0 +1,9 @@
+{
+  "name": "soda-devnet",
+  "private": true,
+  "scripts": {
+    "alpenglow:node": "bash scripts/alpenglow-local-node.sh",
+    "evm:compile": "npm --prefix contracts/evm run compile",
+    "web:dev": "npm --prefix apps/web run dev"
+  }
+}

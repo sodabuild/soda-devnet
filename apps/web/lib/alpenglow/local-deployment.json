@@ -1,0 +1,7 @@
+{
+  "base-sepolia": {
+    "lightClient": "0x072526aadbfc069a25bba524ada64bf3aa51a4ae",
+    "factory": "0xcd83950f9607c5a8bc93069af84664955118250e"
+  },
+  "bsc-testnet": null
+}
